@@ -1,0 +1,17 @@
+[
+  {
+    "id":1,
+    "name":"Eletrônicos",
+    "image":"https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=500"
+  },
+  {
+    "id":2,
+    "name":"Games",
+    "image":"https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=500"
+  },
+  {
+    "id":3,
+    "name":"Celulares",
+    "image":"https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?q=80&w=500"
+  }
+]
