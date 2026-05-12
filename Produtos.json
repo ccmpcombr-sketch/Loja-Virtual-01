@@ -5,6 +5,7 @@
     "price":"R$ 7.999,90",
     "oldPrice":"R$ 8.999,90",
     "image":"https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=1200",
+    "image":"https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=1200",
     "category":"Celulares",
     "affiliate":true
   },
@@ -14,6 +15,7 @@
     "price":"R$ 7.999,90",
     "oldPrice":"R$ 8.999,90",
     "image":"https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=1200",
+    "image":"https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=1200",
     "category":"Celulares",
     "affiliate":true
   },
@@ -23,6 +25,7 @@
     "price":"R$ 5.499,90",
     "oldPrice":"R$ 6.199,90",
     "image":"https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=1200",
+    "image":"https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=1200",
     "category":"Games",
     "affiliate":true
   },
@@ -32,6 +35,7 @@
     "price":"R$ 5.499,90",
     "oldPrice":"R$ 6.199,90",
     "image":"https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=1200",
+    "image":"https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=1200",
     "category":"Games",
     "affiliate":true
   }
